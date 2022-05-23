@@ -1,0 +1,6 @@
+-to bot father
+/newbot
+for botname: tori_bot
+for username of bot: username_tori_bot
+
+https://api.telegram.org/bot5308340387:AAEAHQRYyNFe46o9FjmiPIl-1yKHzM6U9Lc/getUpdates
